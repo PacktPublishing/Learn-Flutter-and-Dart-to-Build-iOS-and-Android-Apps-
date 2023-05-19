@@ -1,0 +1,8 @@
+Section 2 - Useful Links and Resources
+
+runApp() Source Code
+https://github.com/flutter/flutter/blob/f699eb0be0a0cfcf34e2b6c0e402a18d76a96f2e/packages/flutter/lib/src/widgets/binding.dart#L1078
+
+MaterialApp() Source Code
+https://github.com/flutter/flutter/blob/f699eb0be0a0cfcf34e2b6c0e402a18d76a96f2e/packages/flutter/lib/src/material/app.dart#L195
+

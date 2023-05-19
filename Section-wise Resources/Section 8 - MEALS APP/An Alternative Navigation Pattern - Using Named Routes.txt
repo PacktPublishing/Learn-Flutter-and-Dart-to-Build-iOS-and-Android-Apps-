@@ -1,0 +1,6 @@
+An Alternative Navigation Pattern: Using Named Routes
+In this section, you learned about the recommended navigation approach: Pushing and popping MaterialPageRoute objects to load different screens.
+
+There also exists an alternative approach, though - you can assign names to routes and load your routes via those names. However, that approach is not recommended (for most apps).
+
+Nonetheless, you can explore this alternative approach via the official documentation: https://docs.flutter.dev/development/ui/navigation#using-named-routes

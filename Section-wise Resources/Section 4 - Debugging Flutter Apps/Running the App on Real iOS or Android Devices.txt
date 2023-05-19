@@ -1,0 +1,21 @@
+Running the App on Real iOS or Android Devices
+In this course, we mainly run the app on virtual devices - the Android emulator or iOS simulator.
+
+For development, using these virtual devices is great because changes are reflected almost instantly, you can use your real keyboard and benefit from many other convenience features.
+
+But, of course, you should also test your app on some real devices at some point.
+
+Therefore, the following articles provide step-by-step instructions on how to run your Flutter app on real Android or iOS devices (whilst developing it):
+
+Run on Android (when working on Windows): https://docs.flutter.dev/get-started/install/windows#set-up-your-android-device
+
+Run on Android (when working on macOS): https://docs.flutter.dev/get-started/install/macos#set-up-your-android-device
+
+Run on Android (when working on Linux): https://docs.flutter.dev/get-started/install/linux#set-up-your-android-device
+
+Run on iOS (macOS only): https://docs.flutter.dev/get-started/install/macos#deploy-to-ios-devices
+
+Keep in mind that you can only build + run iOS apps when on a macOS device. Of course the code will be the same, no matter which platform you're using - but you can only build + run an iOS app from a Mac.
+
+Flutter also supports other platforms - e.g, you can also build Windows or macOS desktop programs from your Flutter source code. However, this course focuses on building mobile apps for Android & iOS. Nonetheless, you can of course use the official documentation to also try running your app on those other platforms.
+

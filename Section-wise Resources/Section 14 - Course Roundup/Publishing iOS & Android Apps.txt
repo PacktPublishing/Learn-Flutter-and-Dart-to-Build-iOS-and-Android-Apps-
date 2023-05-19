@@ -1,0 +1,10 @@
+Publishing iOS & Android Apps
+Ultimately, after building and thoroughly testing your Flutter app, you might want to publish it to Google's Play Store or Apple's AppStore.
+
+Publishing to these stores is actually not really difficult but involves a couple of steps. Hence it's best to go through the official, written, step-by-step instructions for the different platforms:
+
+Publish an Android App: https://docs.flutter.dev/deployment/android
+
+Publish an iOS App: https://docs.flutter.dev/deployment/ios
+
+In those guides, you don't just learn how to publish your apps but also how to configure their icons, titles & more useful settings.

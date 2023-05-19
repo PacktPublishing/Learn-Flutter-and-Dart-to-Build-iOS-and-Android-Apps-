@@ -1,0 +1,4 @@
+Section 10 - Useful Links and Resources
+
+Animations and Motions Widget
+https://docs.flutter.dev/development/ui/widgets/animation

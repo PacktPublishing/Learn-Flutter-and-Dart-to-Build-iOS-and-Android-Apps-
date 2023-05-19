@@ -1,0 +1,8 @@
+Section 3 - Useful Links and Resources
+
+Adding Custom Fonts
+https://docs.flutter.dev/cookbook/design/fonts
+
+Google Fonts Package
+https://pub.dev/packages/google_fonts
+
