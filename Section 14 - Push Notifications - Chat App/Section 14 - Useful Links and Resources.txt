@@ -1,0 +1,9 @@
+Section 14 - Push Notifications - Chat App
+
+Useful Links and Resources
+
+Firebase + Flutter SDK & CLI Setup Docs
+https://firebase.google.com/docs/flutter/setup?platform=ios
+
+Firebase + Flutter Push Notifications Setup Docs
+https://firebase.google.com/docs/cloud-messaging/flutter/client
